@@ -1,0 +1,1 @@
+from SpaceSim.Entities.LightFighter import LightFighter
